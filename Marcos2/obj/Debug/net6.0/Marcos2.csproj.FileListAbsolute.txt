@@ -1,0 +1,15 @@
+C:\Users\lenin\source\repos\Marcos2\Marcos2\bin\Debug\net6.0\Marcos2.exe
+C:\Users\lenin\source\repos\Marcos2\Marcos2\bin\Debug\net6.0\Marcos2.deps.json
+C:\Users\lenin\source\repos\Marcos2\Marcos2\bin\Debug\net6.0\Marcos2.runtimeconfig.json
+C:\Users\lenin\source\repos\Marcos2\Marcos2\bin\Debug\net6.0\Marcos2.dll
+C:\Users\lenin\source\repos\Marcos2\Marcos2\bin\Debug\net6.0\Marcos2.pdb
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.AssemblyInfo.cs
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.dll
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\refint\Marcos2.dll
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.pdb
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\Marcos2.genruntimeconfig.cache
+C:\Users\lenin\source\repos\Marcos2\Marcos2\obj\Debug\net6.0\ref\Marcos2.dll
